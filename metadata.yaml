@@ -1,0 +1,36 @@
+_repo: Healthful-Sports-for-Young-Ladies_57057
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dugourc, Jean
+    gutenberg_agent_id: '49172'
+    url: http://www.gutenberg.org/2009/agents/49172
+  translator:
+    agent_name: Combe, William
+    aliases:
+    - Coombe, William
+    - Syntax, Dr.
+    - Doctor Syntax
+    birthdate: 1742
+    deathdate: 1823
+    gutenberg_agent_id: '8391'
+    url: http://www.gutenberg.org/2009/agents/8391
+    wikipedia: http://en.wikipedia.org/wiki/William_Combe
+creator:
+  author:
+    agent_name: Sernin, St.
+    gutenberg_agent_id: '49171'
+    url: http://www.gutenberg.org/2009/agents/49171
+description: ''
+gutenberg_issued: '2018-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Healthful Sports for Young Ladies
+url: http://www.gutenberg.org/ebooks/57057
